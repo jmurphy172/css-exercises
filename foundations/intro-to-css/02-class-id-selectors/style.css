@@ -1,1 +1,36 @@
-/* Add CSS Styling */
+body{
+
+
+    background-color: aliceblue;
+
+    display: flex;
+
+    flex-direction: column;
+    
+    margin-top: 200px;
+
+
+}
+body :nth-child(odd){
+
+    background-color: rgba(230, 138, 198, 0.643);
+
+}
+
+
+body :nth-child(2){
+
+    color: blue;
+
+    font-size: 36px;
+
+}
+
+
+body :nth-child(4){
+
+    background-color: hsla(60, 50%, 50%, 50%);
+
+    display:;
+
+}
